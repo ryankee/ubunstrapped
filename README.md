@@ -7,7 +7,7 @@ Usage
     Usage: ubunstrapped [OPTIONS] server-ip
 
     Options:
-        -u, --user      User to login as
+        -u, --user      User to log in as
         -h, --help      Show this message
         -v, --version   Show version
 
